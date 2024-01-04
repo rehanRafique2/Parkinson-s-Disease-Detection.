@@ -1,4 +1,4 @@
-#Parkinson Disease Detection
+# Parkinson Disease Detection
 
 
 This project aimed to predict Parkinson's disease using Support Vector Machines (SVMs). The analysis involved the following steps:
